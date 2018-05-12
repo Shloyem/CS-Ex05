@@ -1,0 +1,6 @@
+C:\Users\MrRobot\Documents\Visual Studio 2017\Projects\CS-Ex05\B17_Ex05\bin\Debug\B17_Ex05.exe
+C:\Users\MrRobot\Documents\Visual Studio 2017\Projects\CS-Ex05\B17_Ex05\bin\Debug\B17_Ex05.pdb
+C:\Users\MrRobot\Documents\Visual Studio 2017\Projects\CS-Ex05\B17_Ex05\obj\Debug\B17_Ex05.csprojAssemblyReference.cache
+C:\Users\MrRobot\Documents\Visual Studio 2017\Projects\CS-Ex05\B17_Ex05\obj\Debug\B17_Ex05.csproj.CoreCompileInputs.cache
+C:\Users\MrRobot\Documents\Visual Studio 2017\Projects\CS-Ex05\B17_Ex05\obj\Debug\B17_Ex05.exe
+C:\Users\MrRobot\Documents\Visual Studio 2017\Projects\CS-Ex05\B17_Ex05\obj\Debug\B17_Ex05.pdb
